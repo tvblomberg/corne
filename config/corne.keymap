@@ -54,7 +54,6 @@
                              &kp LGUI &trans   &kp SPACE   &kp RET   &trans    &kp RALT
                         >;
                 };
-        };
 
                 mouse_layer {
 // -----------------------------------------------------------------------------------------
@@ -69,4 +68,5 @@
                                     &kp LGUI     &trans       &kp SPACE      &mkp LCLK  &mkp RCLK   &kp RALT
                         >;
                 };
+        };
 };
